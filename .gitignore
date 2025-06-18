@@ -200,5 +200,4 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-
-notebooks/data_visualization.ipynb
+notebooks/model_training.ipynb
