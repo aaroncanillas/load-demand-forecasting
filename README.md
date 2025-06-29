@@ -19,8 +19,8 @@
 
 ## Sources
 
-https://transparency.entsoe.eu/ 
-https://www.esios.ree.es/en/market-and-prices 
-https://openweathermap.org/api
-https://www.kaggle.com/datasets/nicholasjhana/energy-consumption-generation-prices-and-weather?select=energy_dataset.csv
+- https://transparency.entsoe.eu/ 
+- https://www.esios.ree.es/en/market-and-prices 
+- https://openweathermap.org/api
+- https://www.kaggle.com/datasets/nicholasjhana/energy-consumption-generation-prices-and-weather?select=energy_dataset.csv
 
